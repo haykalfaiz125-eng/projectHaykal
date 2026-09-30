@@ -7,7 +7,6 @@ Kumpulan project Android Studio oleh Haykal.
 2. **IntentActivity** - Latihan penggunaan Intent dan Navigasi antar Activity.
 3. **MenghitungNilaiMahasiswa** - Aplikasi kalkulasi nilai mahasiswa.
 4. **MengirimDataAntarActivity** - Latihan mengirim dan menerima data antar Activity di Android.
-5. **project1** - Project latihan Android Studio.
 
 ## 🚀 Cara Menjalankan Project:
 1. Clone repository ini:
